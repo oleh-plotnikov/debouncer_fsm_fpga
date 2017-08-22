@@ -1,1 +1,1 @@
-# debouncer_fsm_fpga
+Xilinx project. Debouncer state_machine.
